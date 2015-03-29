@@ -1,0 +1,14 @@
+defaults: &defaults
+  adapter: activerecord-jdbc-adapter
+  encoding: unicode
+  username: root
+  password:
+  pool: 5
+
+development:
+  <<: *defaults
+  database: test_es_dev
+
+test:
+  <<: *defaults
+  database: test_es_test
