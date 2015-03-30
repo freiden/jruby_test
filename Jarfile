@@ -1,1 +1,1 @@
-jar 'org.elasticsearch:elasticsearch', '1.5.0'
+jar 'org.elasticsearch:elasticsearch', '1.1.2'

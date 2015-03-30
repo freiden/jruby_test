@@ -1,19 +1,19 @@
 ---
 :runtime:
-- org.apache.lucene:lucene-spatial:jar:4.10.4
-- org.apache.lucene:lucene-analyzers-common:jar:4.10.4
-- org.apache.lucene:lucene-sandbox:jar:4.10.4
-- org.ow2.asm:asm-commons:jar:4.1
-- org.apache.lucene:lucene-join:jar:4.10.4
-- org.elasticsearch:elasticsearch:jar:1.5.0
-- org.apache.lucene:lucene-queryparser:jar:4.10.4
-- org.apache.lucene:lucene-suggest:jar:4.10.4
-- org.apache.lucene:lucene-misc:jar:4.10.4
-- org.apache.lucene:lucene-grouping:jar:4.10.4
-- org.ow2.asm:asm:jar:4.1
-- org.antlr:antlr-runtime:jar:3.5
-- org.apache.lucene:lucene-core:jar:4.10.4
-- org.apache.lucene:lucene-memory:jar:4.10.4
-- org.apache.lucene:lucene-queries:jar:4.10.4
-- org.apache.lucene:lucene-highlighter:jar:4.10.4
+- org.bouncycastle:bcprov-jdk15on:jar:1.47
 - com.spatial4j:spatial4j:jar:0.4.1
+- org.apache.lucene:lucene-misc:jar:4.7.2
+- org.elasticsearch:elasticsearch:jar:1.1.2
+- org.apache.lucene:lucene-codecs:jar:4.7.2
+- org.bouncycastle:bcpkix-jdk15on:jar:1.47
+- org.apache.lucene:lucene-analyzers-common:jar:4.7.2
+- org.apache.lucene:lucene-grouping:jar:4.7.2
+- org.apache.lucene:lucene-memory:jar:4.7.2
+- org.apache.lucene:lucene-suggest:jar:4.7.2
+- org.apache.lucene:lucene-queryparser:jar:4.7.2
+- org.apache.lucene:lucene-join:jar:4.7.2
+- org.apache.lucene:lucene-spatial:jar:4.7.2
+- org.apache.lucene:lucene-sandbox:jar:4.7.2
+- org.apache.lucene:lucene-highlighter:jar:4.7.2
+- org.apache.lucene:lucene-core:jar:4.7.2
+- org.apache.lucene:lucene-queries:jar:4.7.2
